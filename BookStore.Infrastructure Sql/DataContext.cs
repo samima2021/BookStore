@@ -2,7 +2,7 @@
 
 namespace BookStore.Infrastructure_Sql
 {
-    public class Class1
+    public class DataContext
     {
     }
 }
